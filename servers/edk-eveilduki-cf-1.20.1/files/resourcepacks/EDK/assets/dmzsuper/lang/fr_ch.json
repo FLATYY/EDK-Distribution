@@ -1,0 +1,18 @@
+{
+  "gui.action.dmzsuper.ultrainstinct": "Ultra Instinct",
+  "gui.action.dmzsuper.ultraego": "Ultra Ego",
+  "gui.dmzsuper.ultrainstinct.exhaustion_bar": "Épuisement : %s §7[%s%%]",
+  "message.dmzsuper.ultrainstinct.exhausted": "Tu es physiquement épuisé !",
+  "skill.dmzsuper.ultrainstinct": "Ultra Instinct",
+  "skill.dmzsuper.ultraego": "Ultra Ego",
+  "skill.dmzsuper.stack.form.ultrainstinct": "Ultra Instinct",
+  "skill.dmzsuper.stack.form.ultraego": "Ultra Ego",
+  "gui.dmzsuper.ultraego.rage_bar": "Rage : %s §7[%s%%]",
+  "race.dragonminez.stack.form.ultrainstinct.null": "",
+  "race.dragonminez.stack.form.ultraego.null": "",
+  "key.dmzsuper.descend": "Descendre (Alt+G)",
+  "message.dmzsuper.ultrainstinct.cannot_activate_with_rage": "§cImpossible de garder l'esprit vide avec de la Rage accumulée",
+  "message.dmzsuper.ultraego.deactivated_no_rage": "§cTu as perdu ton État d'Esprit Destructeur, et donc l'état Ultra Ego",
+  "gui.dragonminez.spacepod.beerus": "Planète de Beerus",
+  "key.categories.dmzsuper": "Dragon Mine Z : Super"
+}

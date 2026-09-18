@@ -1,0 +1,55 @@
+
+[permissions]
+	#Permission LuckPerms qui deverrouille tout le catalogue pour un joueur.
+	vipNode = "edk.cosmetic.vip"
+
+[hair]
+	#Coiffures (hairId, systeme de 28 presets) qui restent AUTORISEES au non-VIP.
+	#Concerne human, saiyan, et majin FEMELLE. Tout le reste = cadenas.
+	#Liste vide = toutes ces coiffures verrouillees.
+	#Race saiyan.
+	allowedNonVip_saiyan = [1, 2, 3, 4, 5]
+	#Race majin (femelle).
+	allowedNonVip_majin = [1, 2]
+	#Toutes les autres races (human, ...).
+	allowedNonVip_other = [1]
+
+[headBones]
+	#Appendices de tete (antennes, cornes, tetes de majin) qui restent AUTORISES au non-VIP,
+	#par race. C'est ce qui sert de "coiffure" pour namekian / frostdemon / majin masculin.
+	#L'option "aucun" reste toujours disponible. Race absente ici = aucune restriction.
+	allowedNonVip_namekian = ["ears1", "ears2"]
+	allowedNonVip_frostdemon = ["horns1", "horns2"]
+	allowedNonVip_majin = ["majin1", "majin2"]
+
+[eyesType]
+	#Formes d'yeux (eyesType) VERROUILLEES pour le non-VIP. Vide = aucune restriction.
+	lockedNonVip = []
+
+[tattoo]
+	#true = le non-VIP ne peut prendre aucun tatouage (toutes races).
+	lockAllForNonVip = true
+	#Valeurs de tattooType qui restent autorisees malgre lockAllForNonVip (0 = aucun tatouage).
+	allowedNonVip = [0]
+
+[colors]
+	#true = selecteur de couleur d'aura verrouille (cadenas) pour le non-VIP.
+	lockAuraColor = true
+	#true = selecteurs de couleur des yeux verrouilles (cadenas) pour le non-VIP.
+	lockEyeColor = true
+
+[grandfather]
+	#Joueur non-VIP possedant deja une option verrouillee :
+	# keep  = garde son apparence actuelle jusqu'a ce qu'il la modifie
+	# reset = force le retour a une valeur autorisee a la connexion
+	mode = "keep"
+	#Coiffure de repli en mode reset.
+	#Range: 0 ~ 512
+	fallbackHairId = 1
+	#Forme d'yeux de repli en mode reset.
+	#Range: 0 ~ 512
+	fallbackEyesType = 0
+	#Tatouage de repli en mode reset.
+	#Range: 0 ~ 512
+	fallbackTattooType = 0
+

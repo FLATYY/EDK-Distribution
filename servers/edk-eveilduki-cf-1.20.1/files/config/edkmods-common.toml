@@ -1,0 +1,36 @@
+
+#Valeur en Zeni de chaque item (creditee au joueur a l'utilisation).
+#Valeurs de test pour l'instant -- ajuste-les librement.
+[zeni]
+	#Piece Zeni (Bronze)
+	#Range: 0 ~ 9223372036854775807
+	zeni_bronze = 10
+	#Piece Zeni (Argent)
+	#Range: 0 ~ 9223372036854775807
+	zeni_argent = 100
+	#Piece Zeni (Or)
+	#Range: 0 ~ 9223372036854775807
+	zeni_or = 1000
+	#Billet Zeni (Bronze)
+	#Range: 0 ~ 9223372036854775807
+	zeni_billet_bronze = 1000
+	#Billet Zeni (Argent)
+	#Range: 0 ~ 9223372036854775807
+	zeni_billet_argent = 10000
+	#Billet Zeni (Or)
+	#Range: 0 ~ 9223372036854775807
+	zeni_billet_or = 100000
+
+#Comment le mod credite l'argent du joueur au clic droit sur un item Zeni.
+[economy]
+	#Active le credit d'argent au clic droit. Si false : l'item se consomme quand meme mais rien n'est credite.
+	enabled = true
+	#Commande executee en console pour crediter le joueur.
+	#%player% = pseudo du joueur, %amount% = montant en Zeni (entier).
+	#Serveur Mohist + EssentialsX : "eco give %player% %amount%"
+	#Autre plugin possible : "money give %player% %amount%"
+	command = "eco give %player% %amount%"
+	#Delai minimum en ticks entre deux encaissements par joueur (anti double-clic). 20 ticks = 1 seconde.
+	#Range: 0 ~ 100
+	useCooldownTicks = 5
+

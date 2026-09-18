@@ -1,0 +1,6 @@
+{
+  "mod.dmzlayers.name": "DMZ Layers+",
+  "mod.dmzlayers.description": "Addon de textures multi-couches pour Dragon Mine Z.",
+  "command.dmzlayers.reload.success": "Config de DMZ Layers+ rechargée — %s entrées chargées.",
+  "gui.dmzlayers.custom_colors": "Couleurs personnalisées"
+}

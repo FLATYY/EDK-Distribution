@@ -1,0 +1,30 @@
+[
+  {
+    "layers": [
+      { "colorSource": "bodyColor" },
+      { "colorSource": "bodyColor2" },
+      { "colorSource": "bodyColor3", "alpha": 0.9 }
+    ]
+  },
+  {
+    "model": "bioandroid_pmax",
+    "customColor1": "#D9B28D",
+    "customColor2": "#FF6B6B",
+    "layers": [
+      { "texture": "dmzlayers:textures/entity/races/bioandroid_pmax/bioandroid_pmax_layer1.png", "colorSource": "bodyColor" },
+      { "texture": "dmzlayers:textures/entity/races/bioandroid_pmax/bioandroid_pmax_layer2.png", "colorSource": "bodyColor2" }
+    ]
+  }
+
+  // ── PLANTILLA: FORMA / STACKFORM CON FILTROS (copia y descomenta) ──
+  // "formGroup" solo es necesario si el nombre de "form" se repite entre
+  // grupos de stackform (ej: "mastered" existe en ultrainstinct y en ultraego).
+  // ,{
+  //   "form": "mastered",
+  //   "formGroup": "ultrainstinct",
+  //   "raceFilter": "frostdemon",
+  //   "layers": [
+  //     { "colorSource": "bodyColor" }
+  //   ]
+  // }
+]

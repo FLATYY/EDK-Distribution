@@ -1,0 +1,32 @@
+
+[duel]
+	#Delai en secondes avant expiration automatique d'une demande de duel non repondue.
+	#Range: 5 ~ 300
+	inviteTimeoutSeconds = 30
+	#Duree du compte a rebours (3, 2, 1, GO) avant le debut du combat.
+	#Range: 1 ~ 10
+	countdownSeconds = 3
+	#Duree maximale d'un duel en secondes avant fin automatique par timeout (0 = illimite).
+	#Range: 0 ~ 3600
+	duelTimeLimitSeconds = 120
+	#Si vrai, les deux joueurs sont teleportes vers l'arene au debut du duel.
+	teleportToArena = true
+	#Si vrai, le resultat du duel est annonce a tout le serveur plutot qu'aux deux duellistes uniquement.
+	announceToServer = true
+
+[arena]
+	#Dimension de l'arene (ex: minecraft:overworld).
+	dimension = "minecraft:overworld"
+	#Range: -3.0E7 ~ 3.0E7
+	player1X = 0.5
+	#Range: -2048.0 ~ 2048.0
+	player1Y = 100.0
+	#Range: -3.0E7 ~ 3.0E7
+	player1Z = 0.5
+	#Range: -3.0E7 ~ 3.0E7
+	player2X = 10.5
+	#Range: -2048.0 ~ 2048.0
+	player2Y = 100.0
+	#Range: -3.0E7 ~ 3.0E7
+	player2Z = 0.5
+

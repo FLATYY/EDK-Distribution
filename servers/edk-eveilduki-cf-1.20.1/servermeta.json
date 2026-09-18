@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/Kane/AppData/Local/Temp/claude/C--Users-Kane/3b8ed1a7-657f-46c3-8312-7cabfcb9d0ae/scratchpad/nebula_root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "EDK - L'Éveil du Ki",
+    "description": "Serveur RP Dragon Ball Z - Forge 1.20.1 / DragonMineZ",
+    "icon": "",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "EDK",
+      "largeImageText": "EDK - L'Éveil du Ki",
+      "largeImageKey": "server-edk"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.10"
+  },
+  "untrackedFiles": []
+}
