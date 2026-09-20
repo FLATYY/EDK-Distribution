@@ -12,8 +12,8 @@
       "name": "EDK - L'Éveil du Ki",
       "description": "Serveur RP Dragon Ball Z - Forge 1.20.1 / DragonMineZ",
       "icon": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/edk-eveilduki-cf-1.20.1.png",
-      "version": "1.0.0",
-      "address": "localhost:25565",
+      "version": "1.0.1",
+      "address": "57.129.156.222:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "EDK",
@@ -3778,6 +3778,28 @@
           }
         },
         {
+          "id": "ultraego.json",
+          "name": "ultraego.json",
+          "type": "File",
+          "artifact": {
+            "size": 2552,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/dragonminez/oldBackup/forms/ultraego.json",
+            "MD5": "8caff4efa361268bc0f8819cba8a0f91",
+            "path": "config/dragonminez/oldBackup/forms/ultraego.json"
+          }
+        },
+        {
+          "id": "ultrainstinct.json",
+          "name": "ultrainstinct.json",
+          "type": "File",
+          "artifact": {
+            "size": 2888,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/dragonminez/oldBackup/forms/ultrainstinct.json",
+            "MD5": "06e595c5974f19110b28db5d7f91793a",
+            "path": "config/dragonminez/oldBackup/forms/ultrainstinct.json"
+          }
+        },
+        {
           "id": "character.json",
           "name": "character.json",
           "type": "File",
@@ -4268,7 +4290,7 @@
           "artifact": {
             "size": 291,
             "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "21550804cd6ce68886594a5b83f4a1fa",
+            "MD5": "54111d067857d9faf5a4974ec4ac5ea6",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -4801,6 +4823,28 @@
           }
         },
         {
+          "id": "bookmarks.json",
+          "name": "bookmarks.json",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/jei/world/server/Minecraft%20Server%20(192_168_1_20)/bookmarks.json",
+            "MD5": "9256452e33d043d0f9f206f1f89a5df9",
+            "path": "config/jei/world/server/Minecraft Server (192_168_1_20)/bookmarks.json"
+          }
+        },
+        {
+          "id": "lookupHistory.ini",
+          "name": "lookupHistory.ini",
+          "type": "File",
+          "artifact": {
+            "size": 547,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/jei/world/server/Minecraft%20Server%20(192_168_1_20)/lookupHistory.ini",
+            "MD5": "7f1e1c7f3ab9966069b840ce483ae78d",
+            "path": "config/jei/world/server/Minecraft Server (192_168_1_20)/lookupHistory.ini"
+          }
+        },
+        {
           "id": "de_de.local",
           "name": "de_de.local",
           "type": "File",
@@ -5071,7 +5115,7 @@
           "artifact": {
             "size": 287,
             "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/oculus.properties",
-            "MD5": "887ff7f0146dec009b9b5708d3e7cc6f",
+            "MD5": "bff0f1fa66735354514d07510aa0835a",
             "path": "config/oculus.properties"
           }
         },
@@ -5082,7 +5126,7 @@
           "artifact": {
             "size": 489,
             "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/packetfixer.properties",
-            "MD5": "56d7b916ca06daf4b46b8eb7486a3913",
+            "MD5": "d3dcea172e695738f61538d166f22ffc",
             "path": "config/packetfixer.properties"
           }
         },
@@ -5370,6 +5414,17 @@
             "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/config/waystones-common.toml",
             "MD5": "f63942330c8c403974a68d64defaaa15",
             "path": "config/waystones-common.toml"
+          }
+        },
+        {
+          "id": "dragonminez-2.1.3.jar.orig",
+          "name": "dragonminez-2.1.3.jar.orig",
+          "type": "File",
+          "artifact": {
+            "size": 61828647,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/mods/dragonminez-2.1.3.jar.orig",
+            "MD5": "bce3a96f2dd2c7d7aebf76e4e8ab3851",
+            "path": "mods/dragonminez-2.1.3.jar.orig"
           }
         },
         {
@@ -5887,6 +5942,314 @@
             "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/fresh_waystones.zip",
             "MD5": "e5aff8b0604c03f9acbec87a86ebdbd8",
             "path": "resourcepacks/fresh_waystones.zip"
+          }
+        },
+        {
+          "id": "icon_128x128.png",
+          "name": "icon_128x128.png",
+          "type": "File",
+          "artifact": {
+            "size": 4844,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_128x128.png",
+            "MD5": "1a370de7656a284619ef9f7e3ce014c3",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_128x128.png"
+          }
+        },
+        {
+          "id": "icon_16x16.png",
+          "name": "icon_16x16.png",
+          "type": "File",
+          "artifact": {
+            "size": 437,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_16x16.png",
+            "MD5": "6dc1ff1b4ba59739ac9880c21b1d4ffd",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_16x16.png"
+          }
+        },
+        {
+          "id": "icon_256x256.png",
+          "name": "icon_256x256.png",
+          "type": "File",
+          "artifact": {
+            "size": 14573,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_256x256.png",
+            "MD5": "9276533ea51f88c5e375bc4ac4a70b03",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_256x256.png"
+          }
+        },
+        {
+          "id": "icon_32x32.png",
+          "name": "icon_32x32.png",
+          "type": "File",
+          "artifact": {
+            "size": 941,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_32x32.png",
+            "MD5": "3a20084a2e9db34d7c57a654d9518e4c",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_32x32.png"
+          }
+        },
+        {
+          "id": "icon_48x48.png",
+          "name": "icon_48x48.png",
+          "type": "File",
+          "artifact": {
+            "size": 1464,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_48x48.png",
+            "MD5": "95da89b9e4944f849c092171a8fd322a",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Branding/assets/dragonminez/icons/icon_48x48.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 105,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Branding/pack.mcmeta",
+            "MD5": "4e3d80bb9da86708d60cb16ea05828ff",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Branding/pack.mcmeta"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzlayers/lang/fr_fr.json",
+            "MD5": "f6e4cebffac00cf3fda71a7fc27640ef",
+            "path": "resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzlayers/lang/fr_fr.json"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 4016,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzrevamp/lang/fr_fr.json",
+            "MD5": "872ea4ac1a4eb3517ceeed2c998ccfce",
+            "path": "resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzrevamp/lang/fr_fr.json"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 4,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzsparking/lang/fr_fr.json",
+            "MD5": "5b76b0eef9af8a2300673e0553f609f9",
+            "path": "resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzsparking/lang/fr_fr.json"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 1056,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzsuper/lang/fr_fr.json",
+            "MD5": "7bfd26eb60d8a02e8c72b252b50262a6",
+            "path": "resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dmzsuper/lang/fr_fr.json"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9015,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dragonminez/lang/fr_fr.json",
+            "MD5": "16f1defe8376b0080c7e050c9d07b985",
+            "path": "resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/assets/dragonminez/lang/fr_fr.json"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 178,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/pack.mcmeta",
+            "MD5": "f0435ba0eab8836dc2ff2e9bd789555c",
+            "path": "resourcepacks/_merged_into_EDK/EDK-DMZ-Addons-FR/pack.mcmeta"
+          }
+        },
+        {
+          "id": "blue.png",
+          "name": "blue.png",
+          "type": "File",
+          "artifact": {
+            "size": 311,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/blue.png",
+            "MD5": "b1aef4dfe698e288afef5fe4dd3d272f",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/blue.png"
+          }
+        },
+        {
+          "id": "blue_evolved.png",
+          "name": "blue_evolved.png",
+          "type": "File",
+          "artifact": {
+            "size": 320,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/blue_evolved.png",
+            "MD5": "40e4043820e3f15c98bf25f68b3a1684",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/blue_evolved.png"
+          }
+        },
+        {
+          "id": "combattant.png",
+          "name": "combattant.png",
+          "type": "File",
+          "artifact": {
+            "size": 311,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/combattant.png",
+            "MD5": "3be0879252691271574451344f6e4ea1",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/combattant.png"
+          }
+        },
+        {
+          "id": "elite.png",
+          "name": "elite.png",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/elite.png",
+            "MD5": "30ee18557dfd33cc9307c5f91afc7e0e",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/elite.png"
+          }
+        },
+        {
+          "id": "elite_saiyan.png",
+          "name": "elite_saiyan.png",
+          "type": "File",
+          "artifact": {
+            "size": 341,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/elite_saiyan.png",
+            "MD5": "3edf5ffa4f407940306959b213f8fedb",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/elite_saiyan.png"
+          }
+        },
+        {
+          "id": "guerrier.png",
+          "name": "guerrier.png",
+          "type": "File",
+          "artifact": {
+            "size": 316,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/guerrier.png",
+            "MD5": "ba26e4c3f56b9a3f43b342c25f0b70c1",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/guerrier.png"
+          }
+        },
+        {
+          "id": "guerrierz.png",
+          "name": "guerrierz.png",
+          "type": "File",
+          "artifact": {
+            "size": 326,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/guerrierz.png",
+            "MD5": "2de5c0e8201f25c22491316cfc5fe237",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/guerrierz.png"
+          }
+        },
+        {
+          "id": "guerrier_divin.png",
+          "name": "guerrier_divin.png",
+          "type": "File",
+          "artifact": {
+            "size": 397,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/guerrier_divin.png",
+            "MD5": "7c233fc545443f963730db42e3d16534",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/guerrier_divin.png"
+          }
+        },
+        {
+          "id": "ssj2.png",
+          "name": "ssj2.png",
+          "type": "File",
+          "artifact": {
+            "size": 232,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/ssj2.png",
+            "MD5": "d0297c8e610ffce5f4f3fb563b728f9d",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/ssj2.png"
+          }
+        },
+        {
+          "id": "ssj3.png",
+          "name": "ssj3.png",
+          "type": "File",
+          "artifact": {
+            "size": 243,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/ssj3.png",
+            "MD5": "91fb2377878899b0364f425467bc47b3",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/ssj3.png"
+          }
+        },
+        {
+          "id": "super_guerrier.png",
+          "name": "super_guerrier.png",
+          "type": "File",
+          "artifact": {
+            "size": 381,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/super_guerrier.png",
+            "MD5": "f67ee71afd24fecd63caccf447bdfdbb",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/super_guerrier.png"
+          }
+        },
+        {
+          "id": "super_saiyan.png",
+          "name": "super_saiyan.png",
+          "type": "File",
+          "artifact": {
+            "size": 366,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/super_saiyan.png",
+            "MD5": "23cc631bd9ddfdc50b51fa33989a52ba",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/super_saiyan.png"
+          }
+        },
+        {
+          "id": "super_saiyan_god.png",
+          "name": "super_saiyan_god.png",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/super_saiyan_god.png",
+            "MD5": "c09e7fb812f2173554c42840f0b0d83b",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/super_saiyan_god.png"
+          }
+        },
+        {
+          "id": "ultra_instinct.png",
+          "name": "ultra_instinct.png",
+          "type": "File",
+          "artifact": {
+            "size": 336,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/ultra_instinct.png",
+            "MD5": "5da1f40bb49aa3d2174ae2e7e58e14c1",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/edk/textures/font/rank/ultra_instinct.png"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 2390,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/assets/minecraft/font/default.json",
+            "MD5": "b4b47237bf53eef88e230bb9bf8978ab",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/assets/minecraft/font/default.json"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 108,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/resourcepacks/_merged_into_EDK/EDK-Ranks/pack.mcmeta",
+            "MD5": "86f3a55665ec9040c9e9d9f190691787",
+            "path": "resourcepacks/_merged_into_EDK/EDK-Ranks/pack.mcmeta"
           }
         }
       ]

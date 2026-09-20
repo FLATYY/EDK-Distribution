@@ -1,11 +1,11 @@
 {
-  "$schema": "file:///C:/Users/Kane/AppData/Local/Temp/claude/C--Users-Kane/3b8ed1a7-657f-46c3-8312-7cabfcb9d0ae/scratchpad/nebula_root/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/Kane/AppData/Local/Temp/claude/C--Users-Kane/e89d5b3f-1eec-483c-ab7e-4449e4e8fbd6/scratchpad/nebula_root/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "EDK - L'Éveil du Ki",
     "description": "Serveur RP Dragon Ball Z - Forge 1.20.1 / DragonMineZ",
-    "icon": "",
-    "address": "localhost:25565",
+    "icon": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/edk-eveilduki-cf-1.20.1.png",
+    "address": "57.129.156.222:25565",
     "discord": {
       "shortId": "EDK",
       "largeImageText": "EDK - L'Éveil du Ki",
