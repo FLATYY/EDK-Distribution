@@ -5417,6 +5417,160 @@
           }
         },
         {
+          "id": ".pack-version",
+          "name": ".pack-version",
+          "type": "File",
+          "artifact": {
+            "size": 1,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/.pack-version",
+            "MD5": "a87ff679a2f3e71d9181a67b7542122c",
+            "path": "dragonballs/cereal/.pack-version"
+          }
+        },
+        {
+          "id": "ballset.json",
+          "name": "ballset.json",
+          "type": "File",
+          "artifact": {
+            "size": 349,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/assets/ballset.json",
+            "MD5": "b442be6673c7add1a997016d12a8fd7d",
+            "path": "dragonballs/cereal/assets/ballset.json"
+          }
+        },
+        {
+          "id": "dragon.json",
+          "name": "dragon.json",
+          "type": "File",
+          "artifact": {
+            "size": 242,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/assets/dragon.json",
+            "MD5": "f8134fd74c7ebe4c87be288e63a3a69c",
+            "path": "dragonballs/cereal/assets/dragon.json"
+          }
+        },
+        {
+          "id": "radar.json",
+          "name": "radar.json",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/assets/radar.json",
+            "MD5": "03ec296bb683ee505b408d8ac54722df",
+            "path": "dragonballs/cereal/assets/radar.json"
+          }
+        },
+        {
+          "id": "ballset.json",
+          "name": "ballset.json",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/definitions/ballset.json",
+            "MD5": "55a4402c3e7357025046c21d94b15123",
+            "path": "dragonballs/cereal/definitions/ballset.json"
+          }
+        },
+        {
+          "id": "dragon.json",
+          "name": "dragon.json",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/definitions/dragon.json",
+            "MD5": "191d116f0856cf41522971a0b90bc7c0",
+            "path": "dragonballs/cereal/definitions/dragon.json"
+          }
+        },
+        {
+          "id": "radar.json",
+          "name": "radar.json",
+          "type": "File",
+          "artifact": {
+            "size": 323,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/definitions/radar.json",
+            "MD5": "ddd4b2b58de1dbff104247464088cbd3",
+            "path": "dragonballs/cereal/definitions/radar.json"
+          }
+        },
+        {
+          "id": "wishes.json",
+          "name": "wishes.json",
+          "type": "File",
+          "artifact": {
+            "size": 410,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/cereal/definitions/wishes.json",
+            "MD5": "5151bd6a00fb3fd0dbe365e8c8691b7f",
+            "path": "dragonballs/cereal/definitions/wishes.json"
+          }
+        },
+        {
+          "id": ".pack-version",
+          "name": ".pack-version",
+          "type": "File",
+          "artifact": {
+            "size": 1,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/super/.pack-version",
+            "MD5": "e4da3b7fbbce2345d7772b0674a318d5",
+            "path": "dragonballs/super/.pack-version"
+          }
+        },
+        {
+          "id": "dragon.json",
+          "name": "dragon.json",
+          "type": "File",
+          "artifact": {
+            "size": 260,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/super/assets/dragon.json",
+            "MD5": "2575b806cc391758916d5d21c8804b39",
+            "path": "dragonballs/super/assets/dragon.json"
+          }
+        },
+        {
+          "id": "radar.json",
+          "name": "radar.json",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/super/assets/radar.json",
+            "MD5": "20dda7cb23e9d3d98b75ba8a5392254b",
+            "path": "dragonballs/super/assets/radar.json"
+          }
+        },
+        {
+          "id": "dragon.json",
+          "name": "dragon.json",
+          "type": "File",
+          "artifact": {
+            "size": 297,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/super/definitions/dragon.json",
+            "MD5": "166a09bcd30d17800b01806af769268f",
+            "path": "dragonballs/super/definitions/dragon.json"
+          }
+        },
+        {
+          "id": "radar.json",
+          "name": "radar.json",
+          "type": "File",
+          "artifact": {
+            "size": 329,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/super/definitions/radar.json",
+            "MD5": "ee4101cfc520f2e73bac318f63e3500e",
+            "path": "dragonballs/super/definitions/radar.json"
+          }
+        },
+        {
+          "id": "wishes.json",
+          "name": "wishes.json",
+          "type": "File",
+          "artifact": {
+            "size": 436,
+            "url": "https://raw.githubusercontent.com/FLATYY/EDK-Distribution/main/servers/edk-eveilduki-cf-1.20.1/files/dragonballs/super/definitions/wishes.json",
+            "MD5": "05fa76a597dbf39e052d1b8122c0d3b2",
+            "path": "dragonballs/super/definitions/wishes.json"
+          }
+        },
+        {
           "id": "dragonminez-2.1.3.jar.orig",
           "name": "dragonminez-2.1.3.jar.orig",
           "type": "File",
